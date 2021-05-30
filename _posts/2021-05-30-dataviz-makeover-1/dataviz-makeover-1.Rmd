@@ -212,8 +212,6 @@ S/N | Critiques	| Suggestions
 
 [**Link to Tableau Public**](https://public.tableau.com/profile/lim.jin.ru.alethea.#!/?activeTab=0)
 
-knitr::include_graphics("img/FinalDashboard.jpg")
-
 ![](img/FinalDashboard.jpg){width=170%}
  
 ### 5.1 Main Observations
