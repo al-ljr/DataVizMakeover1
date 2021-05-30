@@ -1,0 +1,20 @@
+{
+  "articles": [
+    {
+      "path": "about.html",
+      "title": "About this blog",
+      "description": "This is Jin Ru (Alethea)'s blog, documenting DataViz Makeovers. ",
+      "author": [],
+      "contents": "\r\n\r\n\r\n\r\n",
+      "last_modified": "2021-05-30T13:57:22+08:00"
+    },
+    {
+      "path": "index.html",
+      "title": "Jin Ru (Alethea)'s Blog",
+      "author": [],
+      "contents": "\r\n\r\n\r\n\r\n",
+      "last_modified": "2021-05-30T13:57:23+08:00"
+    }
+  ],
+  "collections": ["posts/posts.json"]
+}

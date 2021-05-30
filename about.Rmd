@@ -1,0 +1,9 @@
+---
+title: "About this blog"
+description: |
+  This is Jin Ru (Alethea)'s blog, documenting DataViz Makeovers. 
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```

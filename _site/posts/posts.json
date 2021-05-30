@@ -1,0 +1,19 @@
+[
+  {
+    "path": "posts/welcome/",
+    "title": "Welcome to Jin Ru (Alethea)'s Blog",
+    "description": "Welcome to my new blog. Hope you enjoy the upcoming DataViz Makeover posts!",
+    "author": [
+      {
+        "name": "Lim Jin Ru (Alethea)",
+        "url": "https://www.linkedin.com/in/alethea-lim"
+      }
+    ],
+    "date": "2021-05-30",
+    "categories": [],
+    "contents": "\r\n\r\n\r\n\r\n",
+    "preview": {},
+    "last_modified": "2021-05-30T13:57:30+08:00",
+    "input_file": "welcome.knit.md"
+  }
+]
