@@ -165,12 +165,10 @@ S/N | Critiques	| Suggestions
 20) Measure values card was placed in the shelves twice so that it can be used to update the placement of the year title on the desired spot. Two graphs are hence reflected side-by-side on the worksheet. 
     i) Right click on the x-axis for the second graph in the worksheet and click on **dual-axis**
     
-  ![](img/dualaxisimportgraph.JPG)
-    
-    ii) Click on **synchronise axis** and **uncheck show header**
+    ii) Click on **synchronise axis** and **uncheck - show header**
     
     ![](img/synchroniseaxisanduncheckheaderimportgraph.JPG)
- 
+
 21) Add the **Year** pill to the second **Measure values** shelf. 
 
     ![](img/Measurevalues2yearvariableimportgraph.JPG)
@@ -210,10 +208,10 @@ S/N | Critiques	| Suggestions
 
 ## 5) Final Visualisation
 
-[**Link to Tableau Public**](https://public.tableau.com/profile/lim.jin.ru.alethea.#!/?activeTab=0)
+[**Link to Tableau Public**](https://public.tableau.com/app/profile/lim.jin.ru.alethea./viz/DataVizMakeOver1/Dashboard)
 
 ![](img/FinalDashboard.jpg){width=170%}
- 
+
 ### 5.1 Main Observations
 
 1) **Negative net exports** (*exports < imports*) is equivalent to **trade deficit** and **positive net exports** (*exports > imports*) is equivalent to **trade surplus**. All the observations below relate to merchandise trade between Singapore and each of its top 6 trading countries in 2019 and 2020. 
