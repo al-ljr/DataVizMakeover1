@@ -208,7 +208,7 @@ S/N | Critiques	| Suggestions
 
 ## 5) Final Visualisation
 
-[**Link to Tableau Public**](https://public.tableau.com/app/profile/lim.jin.ru.alethea./viz/DataVizMakeOver1/Dashboard)
+[**Link to Tableau Public**](https://public.tableau.com/app/profile/lim.jin.ru.alethea./viz/DataVizMakeOver1/Dashboard3_1)
 
 ![](img/FinalDashboard.jpg){width=170%}
 
